@@ -1,6 +1,6 @@
 ## Intel NUC12  Extreme hackintosh OpenCore EFI
 
-![image](ScreenShot/NUC12.JPG)
+![image](ScreenShot/NUC12.jpg)
 
 ### [简体中文](README.zh_CN.md)
 
